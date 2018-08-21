@@ -1,0 +1,5 @@
+name: ${project.name}
+main: org.ppcis.EndOfFlight.EndOfFlight
+version: ${project.version}
+authors: [Brianetta]
+api-version: 1.13
